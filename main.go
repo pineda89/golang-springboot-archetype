@@ -4,8 +4,7 @@ import (
 	"github.com/pineda89/golang-springboot/actuator"
 	"github.com/pineda89/golang-springboot/config"
 	"github.com/pineda89/golang-springboot/eureka"
-	"golang-springboot-archetype/handler"
-
+	"github.com/pineda89/golang-springboot-archetype/handler"
 	"os"
 )
 

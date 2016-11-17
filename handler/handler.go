@@ -3,7 +3,7 @@ package handler
 import (
 	"net/http"
 	"io"
-	"golang-springboot-archetype/service"
+	"github.com/pineda89/golang-springboot-archetype/service"
 	"strconv"
 )
 
